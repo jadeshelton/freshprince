@@ -1,0 +1,15 @@
+h1 {
+	color:red;
+}
+body {
+	background-color: #BA55D3;
+	color:white; 
+	padding-top: 6em;
+}
+ul{
+	color:black;
+	font-size:16pt;
+}
+a {
+	color:yellow;
+}
